@@ -22,5 +22,5 @@ TASK3: Defect Reporting
 Defect Reporting steps are written in the word document:LIMEHOME.
 
 TASK4 : Automation 
-The e2e automation that the last name that the guest type in the first screen is equal to the one shown in the form screen using Nighwatch.js is in the folder :nightwatch js assignment
+The e2e automation that the last name that the guest type in the first screen is equal to the one shown in the form screen using Nighwatch.js is in the folder :nightwatch js assignment (https://github.com/Love2Learn/Limehome-QA-Task/blob/master/nightwatch%20js%20assignment/tests/demo.js)
 
