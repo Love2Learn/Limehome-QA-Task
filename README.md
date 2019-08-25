@@ -1,6 +1,7 @@
 # Limehome-QA-Task
 Please find the solutions for Limehome QA Test challenge
-I have written the entire task in the word document :LIMEHOME
+I have written the entire task in the word document :LIMEHOME  https://github.com/Love2Learn/Limehome-QA-Task/blob/master/LIMEHOME.docx
+
 
 TASK 1: Writing Test Scenarios for online check-in service:
 I have written four different types of testing scenarios: Functional, Database,Perfromance and Security.
