@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="2"
+            tests="1">
+
+  <testsuite name="demo"
+    errors="1" failures="2" hostname="" id="" package="demo" skipped="0"
+    tests="1" time="102.0" timestamp="">
+  
+    <testcase name="Demo test Google" classname="demo" time="102.0" assertions="3">  <failure message="Timed out while waiting for element &lt;body&gt; to be visible for 100000 milliseconds. - expected [0;32m&#34;visible&#34;[0m but got: [0;31m&#34;not visible&#34;[0m">    at Object.Demo test Google (C:\Users\ranji\Downloads\Limehome_assignment\nightwatch js assignment\tests\demo.js:5:10)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    
+
+      <failure message="Testing if element &lt;input[type=text]&gt; is visible. Element could not be located. - expected [0;32m&#34;true&#34;[0m but got: [0;31m&#34;null&#34;[0m">    at Object.Demo test Google (C:\Users\ranji\Downloads\Limehome_assignment\nightwatch js assignment\tests\demo.js:7:17)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+
+    <failure message="    at Object.Demo test Google (C:\Users\ranji\Downloads\Limehome_assignment\nightwatch js assignment\tests\demo.js:7:17)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

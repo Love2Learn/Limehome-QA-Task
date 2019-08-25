@@ -1,0 +1,17 @@
+{
+  "name": "automation_limehome",
+  "version": "1.0.0",
+  "description": "Automation scrpit for testing online service of limehome website",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  },
+  "devDependencies": {
+    "chromedriver": "^76.0.0"
+  }
+}
